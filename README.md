@@ -6,7 +6,8 @@ Sawtooth SDK for ruby.
 
 Currently targeting Sawtooth 1.1.0 SDK API.
 
-Targets:
+
+## Progress
 
 - [x] signing
 - [ ] protobuf
