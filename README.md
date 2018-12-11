@@ -1,8 +1,12 @@
 # Sawtooth::Sdk
 
-This repo is WIP. this gem has not been published to rubygem.org
+This repo is WIP. this gem has not been published to rubygem.org.
 
 Sawtooth SDK for ruby.
+
+Currently targeting Sawtooth 1.1.0 SDK API.
+
+Targets:
 
 - [x] signing
 - [ ] protobuf
