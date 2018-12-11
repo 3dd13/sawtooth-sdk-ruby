@@ -1,8 +1,15 @@
 # Sawtooth::Sdk
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sawtooth/sdk`. To experiment with that code, run `bin/console` for an interactive prompt.
+This repo is WIP. this gem has not been published to rubygem.org
 
-TODO: Delete this and the text above, and describe your gem
+Sawtooth SDK for ruby.
+
+- [x] signing
+- [ ] protobuf
+- [ ] messaging
+- [ ] processor
+- [ ] example
+- [ ] dockerfile
 
 
 ## Installation
@@ -21,8 +28,8 @@ Or install it yourself as:
 
     $ gem install sawtooth-sdk
 
-## Usage
 
+## Setup / Prerequisite
 
 ### Setup Sawtooth Core
 
@@ -35,6 +42,11 @@ $ ./autogen.sh
 $ ./configure --enable-module-recovery
 $ make
 $ sudo make install
+
+
+## Usage
+
+TODO
 
 
 ## Development
